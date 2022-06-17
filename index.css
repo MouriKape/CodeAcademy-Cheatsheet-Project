@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    text-decoration: underline mintcream;
+}
+
+table {
+    margin: auto;
+    border: 2px solid maroon;
+}
+
+th {
+    background-color: hotpink;
+}
+
+td {
+    padding-right: 100px;
+}
+
+.first-column{
+    background-color: floralwhite;
+}
